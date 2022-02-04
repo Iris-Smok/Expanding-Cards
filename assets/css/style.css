@@ -1,0 +1,42 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.flex-container{
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.card{
+    background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+
+.cat{
+    background-image: url('../images/cat.jpg');
+
+}
+
+.city{
+    background-image: url('../images/city.jpg');
+}
+
+.couple{
+    background-image: url('../images/couple.jpg');
+}
+
+.flowers{
+    background-image: url('../images/flowers.jpg');
+}
+
+.forest{
+    background-image: url('../images/forest.jpg');
+}
+
+.winter{
+    background-image: url('../images/winter.jpg');
+}
